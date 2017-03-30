@@ -9,3 +9,5 @@ The Design logic: https://github.com/Trailblazerr1/tic-tac-toe/blob/master/tic-t
 The exe file: https://github.com/Trailblazerr1/tic-tac-toe/blob/master/tic-tac-toe/tic-tac-toe/bin/Release/tic-tac-toe.exe
 
 Take a glimpse at screenshot: https://github.com/Trailblazerr1/tic-tac-toe/blob/master/Screenshot%20(132).png
+
+Ran on: Visual Studio 2013, Windows 8

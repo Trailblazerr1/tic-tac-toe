@@ -10,4 +10,4 @@ The exe file: https://github.com/Trailblazerr1/tic-tac-toe/blob/master/tic-tac-t
 
 Take a glimpse at screenshot: https://github.com/Trailblazerr1/tic-tac-toe/blob/master/Screenshot%20(132).png
 
-Coded with love using: Visual Studio 2013, C#
+Coded with love using: Visual Studio 2013, C#  
